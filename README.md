@@ -1,1 +1,1 @@
-### mysql_to_redis
+從MySQL取得資料後做排序並把排序結果傳到Redis中
